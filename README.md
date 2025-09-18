@@ -16,7 +16,7 @@
 
 ## 📥 Download
 
-[![Download ZIP](https://img.shields.io/badge/Download-Base%20Bot-58A6FF?style=for-the-badge&logo=files&logoColor=white)]([https://github.com/USERNAME/REPO-NAME/raw/main/akiko-bot-base.zip](https://github.com/AkikoNotScare/Base-Akiko-Bot/releases/tag/whatsapp-bot))
+[![Download ZIP](https://img.shields.io/badge/Download-Base%20Bot-58A6FF?style=for-the-badge&logo=files&logoColor=white)]([https://github.com/AkikoNotScare/Base-Akiko-Bot/releases/tag/whatsapp-bot)
 
 ---
 
