@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20Source-58A6FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/License-Free-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/AkikoNotScare/akiko-bot-base?style=for-the-badge&color=ff69b4" />
+  <img src="https://img.shields.io/github/last-commit/AkikoNotScare/Base-Akiko-Bot?style=for-the-badge&color=ff69b4" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 
 ## 📥 Download
 
-[![Download ZIP](https://img.shields.io/badge/Download-Base%20Bot-58A6FF?style=for-the-badge&logo=files&logoColor=white)]([https://github.com/AkikoNotScare/Base-Akiko-Bot/releases/tag/whatsapp-bot)
+[![Download ZIP](https://img.shields.io/badge/⬇️_Download-Base_Bot-58A6FF?style=for-the-badge&logo=github)](https://github.com/AkikoNotScare/Base-Akiko-Bot/releases/latest/download/Base%20Bot%20Akiko.zip)
 
 ---
 
