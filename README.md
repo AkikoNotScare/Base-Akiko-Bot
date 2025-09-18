@@ -8,6 +8,12 @@
 
 ---
 
+## ⚡ Catatan
+- Base ini **free & open source**  
+- Bebas dipakai, diubah, dijual, atau recode — **asal jangan hapus credit ya!** ✨
+
+---
+
 ## 📥 Download
 
 [![Download ZIP](https://img.shields.io/badge/Download-Base%20Bot-58A6FF?style=for-the-badge&logo=files&logoColor=white)](https://github.com/USERNAME/REPO-NAME/raw/main/akiko-bot-base.zip)
@@ -36,12 +42,6 @@
 ## 📝 Credit
 - 👤 **Author**: [Akiko](https://github.com/AkikoNotScare)  
 - 🙏 **Special Thanks**: semua developer bot yang jadi inspirasi  
-
----
-
-## ⚡ Catatan
-- Base ini **free & open source**  
-- Bebas dipakai, diubah, dijual, atau recode — **asal jangan hapus credit ya!** ✨
 
 ---
 
