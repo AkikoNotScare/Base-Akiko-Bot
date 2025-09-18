@@ -34,11 +34,6 @@
 
 ---
 
-## 📸 Preview
-> *(Opsional: lo bisa tambahin screenshot bot biar makin keren)*
-
----
-
 ## 📝 Credit
 - 👤 **Author**: [Akiko](https://github.com/AkikoNotScare)  
 - 🙏 **Special Thanks**: semua developer bot yang jadi inspirasi  
