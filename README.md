@@ -1,4 +1,4 @@
-# 🤖 Akiko Bot - Base Type Case (No Enc)
+# 🤖 Akiko Bot - Base Type Case (No Enc) (No Backdoor)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Open%20Source-58A6FF?style=for-the-badge" />
